@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather1</string>
+    <string name="temperature">temperature</string>
+    <string name="date">Date</string>
+    <string name="textview">TextView</string>
+    <string name="pluie">Pluie :</string>
+    <string name="vent">Vent :</string>
+    <string name="pression">Pression :</string>
+    <string name="neige">neige :</string>
+    <string name="temperaturelbl">Temperature :</string>
+</resources>
